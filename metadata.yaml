@@ -1,0 +1,31 @@
+_repo: The-Works-of-Hubert-Howe-Bancroft-Volume-1The-Native-Races-Volume-1-Wild-Tribes_41070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bancroft, Hubert Howe
+    birthdate: 1832
+    deathdate: 1918
+    gutenberg_agent_id: '944'
+    url: http://www.gutenberg.org/2009/agents/944
+    wikipedia: http://en.wikipedia.org/wiki/Hubert_Howe_Bancroft
+description: ''
+gutenberg_issued: '2012-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Pacific Coast of North America'
+- !lcsh 'Indians of Central America'
+- !lcsh 'Indians of Mexico'
+- !lcsh 'Indians -- Bibliography'
+title: "The Native Races [of the Pacific states], Volume 1, Wild Tribes\r\nThe Works\
+  \ of Hubert Howe Bancroft, Volume 1"
+url: http://www.gutenberg.org/ebooks/41070
